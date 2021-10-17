@@ -1308,7 +1308,7 @@ form label {
   display: table-cell;
   vertical-align: middle;
   font-size: 30px;
-  color: #F14E95;
+  color: #5396ee;
 }
 .feature-left .feature-copy {
   float: left;
@@ -1374,7 +1374,7 @@ form label {
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: #F14E95;
+  background: #5396ee;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
