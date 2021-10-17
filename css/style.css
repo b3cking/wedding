@@ -1671,21 +1671,21 @@ form label {
 }
 
 .btn-primary {
-  background: #F14E95;
+  background: #5396ee;
   color: #fff;
-  border: 2px solid #F14E95;
+  border: 2px solid #5396ee;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #f366a3 !important;
-  border-color: #f366a3 !important;
+  background: #5396ee !important;
+  border-color: #5396ee !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #F14E95;
-  border: 2px solid #F14E95;
+  color: #5396ee;
+  border: 2px solid #5396ee;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #F14E95;
+  background: #5396ee;
   color: #fff;
 }
 
@@ -1815,7 +1815,7 @@ form label {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #F14E95;
+  border-color: #5396ee;
 }
 
 .row-pb-md {
